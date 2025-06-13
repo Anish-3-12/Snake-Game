@@ -150,4 +150,3 @@ python src/snake_game.py
 
 ---
 
-*Created with ❤️ for learning and fun!*
