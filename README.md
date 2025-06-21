@@ -147,6 +147,6 @@ pip install pygame
 # Run the game
 python src/snake_game.py
 ```
-Made for fun and learn with everyone.
+Made for fun and to learn with everyone.
 ---
 
